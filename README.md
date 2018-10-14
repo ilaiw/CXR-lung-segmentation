@@ -1,1 +1,1 @@
-# CXR-ray-lung-segmentation
+# CXR-lung-segmentation
