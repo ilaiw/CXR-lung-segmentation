@@ -3,3 +3,4 @@ This repository is to present two approaches to lung segmentation  which I worke
 
 CXR segmentation with openCV, no ML:
 https://nbviewer.jupyter.org/github/ilaiw/CXR-lung-segmentation/blob/master/CXR-seg-openCV.ipynb
+[CXR segmentation](https://nbviewer.jupyter.org/github/ilaiw/CXR-lung-segmentation/blob/master/CXR-seg-openCV.ipynb)
