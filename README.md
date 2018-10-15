@@ -1,5 +1,5 @@
 # CXR lung segmentation
-This repository is to present two approaches to lung segmentation which I worked on in my final year studying biomedical engineering. 
+This repository is to present two approaches to CXR (chest X-ray) lung segmentation which I worked on in my final year studying biomedical engineering. 
 
 First approach: using computer vision tools with openCV python library
 
